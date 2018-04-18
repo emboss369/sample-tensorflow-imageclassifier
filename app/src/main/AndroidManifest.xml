@@ -36,8 +36,8 @@
             </intent-filter>
 
             <!--
-              Uncomment the following intent filter block to enable this activity to
-              launch automatically on boot, and re-launch if the app terminates.
+              次のインテントフィルタブロックのコメントを外して、
+              このアクティビティが起動時に自動的に起動できるようにし、アプリが終了した場合に再起動します。
             -->
 <!--
             <intent-filter>
